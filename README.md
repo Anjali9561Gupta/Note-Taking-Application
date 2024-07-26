@@ -59,20 +59,20 @@ b. Store notes as an array of objects, each containing id, title, content, and t
 
 <p>Implement pagination to manage and navigate through lists of notes, displaying 10 notes per page.</p>
 
-**Search Functionality**:
+## Search Functionality:
 <p>Provide a search bar to filter notes by title or content.</p>
 
-**Timestamps**:
+## Timestamps:
 
 <p>Record and display the creation or last modification time for each note.</p>
 
-**User Interface Design**
+## User Interface Design:
 
-**List View**: Displays the paginated list of notes with options to edit or delete, a search bar at the top, and a button to add new notes.
+1. **List View**: Displays the paginated list of notes with options to edit or delete, a search bar at the top, and a button to add new notes.
 
-**Note Item**: Each note displays the title, a brief content excerpt, and the timestamp.
+2. **Note Item**: Each note displays the title, a brief content excerpt, and the timestamp.
 
-**Note Form**: A modal or dedicated page for adding or editing note details.
+3. **Note Form**: A modal or dedicated page for adding or editing note details.
 
 
 
