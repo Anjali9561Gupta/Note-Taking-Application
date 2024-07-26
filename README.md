@@ -75,4 +75,19 @@ b. Store notes as an array of objects, each containing id, title, content, and t
 3. **Note Form**: A modal or dedicated page for adding or editing note details.
 
 
+# Installation and Run:
+  To run this project on your system follow the following steps:
+  - Get the code on your system.
+  - Open Terminal on your pc and go to the root folder of project.
+  - Run the command 'npm install' in terminal to install all the dependencies required for the project.
+  - After complete installation, run the command 'npm run start' in your terminal.
+  - To see the output, serach for http://localhost:3000/ in your web browser.
+
+# Tools Used:
+  - Reactjs.
+  - Redux toolkit.
+  - React-router-dom.
+  - JavaScript
+  - HTML.
+
 
